@@ -106,49 +106,9 @@ Contributed to the development and maintenance of an English learning platform.
 
 ---
 
-# 🎯 Currently Learning
-
-```text
-PHP
- │
- ├── OOP
- ├── MVC
- ├── MySQL
- └── REST API
-       │
-       ▼
- Backend Development
-       │
-       ▼
- Software Architecture
-```
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SangThaithaisang22&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SangThaithaisang22&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
 
 # 📫 Contact
 
 📧 **Email:** [thaisang06072004@gmail.com](mailto:thaisang06072004@gmail.com)
 
-💻 **GitHub:** [SangThaithaisang22](https://github.com/SangThaithaisang22)
 
-🌐 **Website:** [Conversational English with Dan](https://conversationalenglishwithdan.com/)
-
----
-
-<div align="center">
-
-### 💻 Build • Learn • Improve • Repeat
-
-</div>
