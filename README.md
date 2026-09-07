@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Võ Thái Sang
 
-### 💻 Web Developer | PHP Developer | WordPress Developer
+### 💻 Web Developer
 
 I'm a Web Developer and Information Technology student from Vietnam with hands-on experience in web development, WordPress, PHP, and AI-powered applications.
 
