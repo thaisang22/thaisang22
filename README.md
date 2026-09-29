@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Võ Thái Sang
+# Hi, I'm Võ Thái Sang
 
-### 💻 Web Developer
+### Web Developer
 
 I'm a Web Developer and Information Technology student from Vietnam with hands-on experience in web development, WordPress, PHP, and AI-powered applications.
 
@@ -8,7 +8,7 @@ I enjoy building practical solutions, improving existing systems, and continuous
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -36,9 +36,9 @@ I enjoy building practical solutions, improving existing systems, and continuous
 
 ---
 
-# 🚀 Real-World Experience
+# Real-World Experience
 
-## 🤖 AI Chatbot — SID Corporation
+## AI Chatbot — SID Corporation
 
 **Software Development Intern**
 `Apr 2024 – Jun 2024`
@@ -59,7 +59,7 @@ Contributed to the development of an AI chatbot designed to answer company polic
 
 ---
 
-## 💼 WordPress Job Management — ISB Vietnam
+## WordPress Job Management — ISB Vietnam
 
 **PHP / WordPress Developer Intern**
 `Jul 2025 – Nov 2025`
@@ -82,7 +82,7 @@ Developed a custom WordPress Job Management Plugin for managing job postings and
 
 ---
 
-## 🌐 Conversational English with Dan
+## Conversational English with Dan
 
 **WordPress Developer — Freelance**
 `Dec 2024 – Present`
@@ -90,7 +90,6 @@ Developed a custom WordPress Job Management Plugin for managing job postings and
 Contributed to the development and maintenance of an English learning platform.
 
 ### Responsibilities
-
 * Fixed UI and layout issues across the website.
 * Improved responsive design for mobile devices.
 * Improved frontend usability and consistency.
@@ -107,7 +106,7 @@ Contributed to the development and maintenance of an English learning platform.
 ---
 
 
-# 📫 Contact
+# Contact
 
 📧 **Email:** [thaisang06072004@gmail.com](mailto:thaisang06072004@gmail.com)
 
